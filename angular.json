@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularPOC"
+    }
+  },
+  "defaultProject": "AngularPOC",
+  "cli": {
+    "analytics": "bb9b9279-4832-4853-ae8c-4e3f04338a31"
+  }
 }
