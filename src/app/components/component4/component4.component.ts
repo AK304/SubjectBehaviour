@@ -22,7 +22,7 @@ export class Component4Component implements OnInit, OnChanges{
 
   ngOnInit(){
     this.SharedService._comp4ValueBS.subscribe((d :any) =>{
-  console.log(d.NAV_COLLAPSE);
+    console.log(d.NAV_COLLAPSE);
 
     })
 
